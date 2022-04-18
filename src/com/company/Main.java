@@ -19,6 +19,5 @@ public class Main {
 
         Circle circle = new Circle(20, "green");
         System.out.println("Circumference: " + circle.circumference + ", Square: " + circle.square + ", Color: " + circle.color);
-
     }
 }
